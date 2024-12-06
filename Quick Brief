@@ -1,0 +1,1 @@
+When the potentiometer is used it also moves the servo motor, for every turn there is it also records the servo position and potentiometer position in the serial monitor tab.
